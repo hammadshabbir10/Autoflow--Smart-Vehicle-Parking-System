@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+Backend/node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# User specific exclusions
+*Sprints*Trello*
+*.sql
+
+# IDE settings
+.vscode/
